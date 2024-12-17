@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portal de Empleo - Noticias sobre Búsqueda de Trabajo</title>
+    <link>https://www.infojobs.net/</link>
+    <atom:link href="https://www.infojobs.net/rss-feed" rel="self" type="application/rss+xml" />
+    <description>Últimas noticias y consejos sobre cómo encontrar empleo de manera efectiva.</description>
+    <item>
+      <title>Cómo Mejorar tu CV para Conseguir el Trabajo de tus Sueños</title>
+      <link>https://www.infojobs.net/blog/mejorar-cv-conseguir-trabajo</link>
+      <description>En este artículo te damos consejos prácticos sobre cómo mejorar tu CV y destacar entre otros candidatos en tu búsqueda de empleo.</description>
+      <pubDate>Tue, 17 Dec 2024 10:00:00 +0000</pubDate>
+      <guid>https://www.infojobs.net/blog/mejorar-cv-conseguir-trabajo</guid>
+    </item>
+    <item>
+      <title>5 Consejos para Prepararte para una Entrevista de Trabajo Exitosa</title>
+      <link>https://www.occ.com.mx/blog/consejos-para-entrevista-de-trabajo</link>
+      <description>Descubre los mejores consejos para enfrentar con confianza cualquier entrevista laboral y maximizar tus oportunidades.</description>
+      <pubDate>Tue, 17 Dec 2024 12:00:00 +0000</pubDate>
+      <guid>https://www.occ.com.mx/blog/consejos-para-entrevista-de-trabajo</guid>
+    </item>
+    <item>
+      <title>Las Mejores Plataformas para Buscar Empleo Online</title>
+      <link>https://www.marcaempleo.com/empleo-online-plataformas</link>
+      <description>Explora las plataformas más efectivas para encontrar trabajo en línea, desde bolsas de trabajo hasta redes profesionales.</description>
+      <pubDate>Wed, 18 Dec 2024 09:00:00 +0000</pubDate>
+      <guid>https://www.marcaempleo.com/empleo-online-plataformas</guid>
+    </item>
+    <item>
+      <title>Cómo Construir una Red Profesional para la Búsqueda de Empleo</title>
+      <link>https://www.linkedin.com/pulse/red-profesional-para-b%C3%BAsqueda-de-empleo</link>
+      <description>Aprende cómo crear una red de contactos sólida que te ayude en la búsqueda de trabajo y abra puertas en el mercado laboral.</description>
+      <pubDate>Wed, 18 Dec 2024 14:30:00 +0000</pubDate>
+      <guid>https://www.linkedin.com/pulse/red-profesional-para-b%C3%BAsqueda-de-empleo</guid>
+    </item>
+    <item>
+      <title>Errores Comunes en la Búsqueda de Empleo y Cómo Evitarlos</title>
+      <link>https://www.euribor.com.es/errores-en-la-busqueda-de-empleo</link>
+      <description>Conoce los errores más frecuentes que cometen los candidatos durante la búsqueda de empleo y cómo evitarlos para tener éxito.</description>
+      <pubDate>Thu, 19 Dec 2024 08:45:00 +0000</pubDate>
+      <guid>https://www.euribor.com.es/errores-en-la-busqueda-de-empleo</guid>
+    </item>
+  </channel>
+</rss>
